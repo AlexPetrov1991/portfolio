@@ -1,0 +1,176 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+}
+
+h1{
+    color: #000;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+h2{
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+h3{
+    color: #000;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+h4{
+    color: #fb6d3a;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+h5{
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+p{
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+li{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    height: 1400px;
+    background-color: #fff;
+}
+
+.main-container{
+    margin: 40px auto;
+}
+
+/*******************************
+**********Soundbar*************/
+
+aside{
+    background-color: #1e2939;
+    width: 370px;
+}
+
+.soundbar{
+    margin: 80px 0 0 40px;
+}
+
+.soundbar .contacts{
+    margin-bottom: 60px;
+}
+
+.soundbar .tech-scills{
+    margin-bottom: 60px;
+}
+
+aside img{
+    width: 370px;
+    height: 355px;
+    margin-top: 40px;
+    object-fit: cover;
+}
+
+.soundbar h3{
+    color: #fff;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.soundbar span{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.soundbar address a{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.soundbar li span{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.soundbar li{
+    color: #fb6d3a;
+}
+
+/****************************
+*********Main contant********/
+
+.main-contant{
+    margin: 102px 0 0 80px;
+    width: 830px;
+}
+
+.main-contant .about-me-information p{
+    display: block;
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    width: 400px;
+}
+
+.main-contant .my-progects span{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.main-contant .my-work-experience span{
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.main-contant .my-progects a{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+.main-contant .my-work-experience ul{
+    padding-left: 15px;
+}
+
+.main-contant .my-progects ol{
+    padding-left: 15px;
+}
+
+.main-contant .my-progects li{
+    font-weight: 700;
+    color: #000; 
+}
+
+.main-contant .my-progects .hooks{
+    font-weight: 700;
+    color: #000;
+}
+
+.main-contant .my-work-experience{
+    display: block;
+    width: 525px;
+}
